@@ -1,0 +1,20 @@
+.Rep__info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.media {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.media__social {
+    flex-basis: 18%;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 255);
+    padding: 0.5em;
+    margin: 0.75em;
+}
